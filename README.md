@@ -5,7 +5,7 @@
 ## Jalankan aplikasi
 
 ```
-$ flutter upgrade
+$ flutter pub upgrade
 $ flutter pub get
 $ flutter run
 ```
